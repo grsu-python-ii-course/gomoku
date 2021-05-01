@@ -1,1 +1,1 @@
-# gomoku
+# Gomoku Competition BY AI Python Course
